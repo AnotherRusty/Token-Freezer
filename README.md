@@ -18,7 +18,7 @@ npm start
 ```
 
 ## Author
-Twitter: [@Lamoerey](https://twitter.com/Lamoerey)
+Twitter: [@idioguru](https://twitter.com/idioguru)
 
 
 You can always find me here, for help, or for other projects.
